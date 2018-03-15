@@ -1,2 +1,3 @@
 # u_master_app
-# Based on Django
+# Mobile app
+# Based on React-native
